@@ -21,13 +21,3 @@ url = "https://gx.189.cn/admin/login.html"
 user="admin"
 passwd="gxdx@2024!@#"
 ```
-
-支持的系统
-
-https://gx.189.cn/admin/login.html
-
-http://pay.gx.189.cn/admin/login.html
-
-http://esmp.gx.189.cn/admin/login.html
-
-http://wapgx.189.cn/admin/login.html
